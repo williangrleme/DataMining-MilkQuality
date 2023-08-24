@@ -20,6 +20,20 @@ A proposta em questão trata do processo de KDD (Knowledge Discovery in Database
 -  Classificação - MLP
 
 
+## Bibliotecas utilizadas
+
+Para todo o desenvolvimento do projeto foi utilizada da linguagem Python, posto a facilidade que ela proporciona para os objetivos do projeto.
+
+Desse modo, foram utilizados as seguintes bibliotecas para o desenvolvimento:
+
+-  Numpy
+- Pandas
+- Imbalanced-learn
+- Sklearn
+- Matplotlib
+- Seaborn
+- Scipy
+- Collections
 ## Apresentação
 
 Foi feita uma apresentação para exibir o contexto e resultados obtidos com o projeto, é possivel acessa-la [aqui](https://github.com/williangrleme/DataMining-MilkQuality/blob/main/Apresentacao.pdf).
